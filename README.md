@@ -1,6 +1,7 @@
 # My Resume
 
-Welcome to my personal resume repository! I created this project to have an online version of my resume.
+Welcome to my personal resume repository! I created this project to have an online version of my resume. </br>
+https://playinpistols2d.github.io/Resume/
 
 ## Feedback and Issues
 
