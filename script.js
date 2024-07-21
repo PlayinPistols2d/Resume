@@ -25,10 +25,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     const images = [
+        { src: "images/REEPEConfCertificate-001.jpg", alt: "Participation & Oral Presentation at IEEE REEPE Conference - Certificate" },
+        { src: "images/IEEE2ndPlaceCertificate-001.jpg", alt: "Second place for research paper at IEEE REEPE Conference - Certificate" },
         { src: "images/mastersDegreeDiploma-001.jpg", alt: "Master of Software Engineering (MSE) - Diploma" },
         { src: "images/engTranslatorDiploma-001.jpg", alt: "Translator in the field of professional communication (IT) - Diploma" },
-        { src: "images/IEEE2ndPlaceCertificate-001.jpg", alt: "Second place for research paper at IEEE REEPE Conference - Certificate" },
-        { src: "images/REEPEConfCertificate-001.jpg", alt: "Participation & Oral Presentation at IEEE REEPE Conference - Certificate" },
         { src: "images/3rdDegreeDiplomaShukhov-001.jpg", alt: "Third Degree Diploma at All-Russian competition of research works in the field of engineering and humanities - Diploma" },
         { src: "images/1rdDegreeDiplomaShukhov-001.jpg", alt: "First Degree Diploma at the XVIII All-Russian Innovation Youth Scientific and Engineering Exhibition “Politechnika” - Diploma" },
         { src: "images/InnostartUmnik-001.jpg", alt: "Participation in the final event of the “UMNIK” program - Certificate" },
